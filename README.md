@@ -1,2 +1,2 @@
 # Java_DSA
-documenting someintersting codes while getting hands on java 
+documenting some interesting codes while getting hands on java 
